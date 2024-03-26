@@ -1,0 +1,128 @@
+.header{
+    background-color: #08316D;
+    color: white;
+    .header-top{
+        display: flex;
+        padding: 14px 56px 14px 24px;
+        justify-content: space-between;
+    
+   .Cicon{
+    width: 87px;
+    height: 48px;
+   }
+    .location{
+        display: flex;
+        padding-top: 20px;
+        padding-left: 70px ;
+        width: 24px;
+        height: 24px;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+    }
+    .search-wholebar{
+        margin-top: 2.5px;
+        margin-left: 90px;
+        display: flex;
+        width: 390px;
+        height: 37px;
+        padding: 10px 6px 10px 20px;
+        justify-content: space-between;
+        align-items: center;
+        flex-shrink: 0;
+        border-radius: 8px;
+        border: 1px solid var(--text-default-textfield, #CACCCF);
+        background: #FFF;
+        .search{
+            display: flex;
+            gap: 12px;
+            h5{
+                color: var(--text-default-textfield, #CACCCF);
+                font-family: Gotham;
+                font-size: 16px;
+                font-style: normal;
+                font-weight: 325;
+                line-height: 16px;
+                margin-top: 8px;
+            }
+            img{
+               padding-top: 5px;
+            }
+        }
+        button{
+            display: flex;
+            padding: 8px 10px;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
+            border: none;
+            border-radius: 4px;
+            background: var(--primary-deafult, #FE724C);
+            color: white;
+        }
+    }
+    .switch{
+        margin-top: 15px;
+        display: flex;
+        gap: 12px;
+        h5{
+            font-family: Gotham;
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 325;
+            line-height: 18px;        }
+        img{
+        display: flex;
+        width: 35px;
+        height: 18px;
+        flex-shrink: 0;
+        }
+    }
+    .bell{
+        margin-top: 5px;
+        width: 20px;
+        height: 28px;
+        padding-top: 10px;
+        justify-content: center;
+        align-items: center;
+            }
+            .wholejohn{
+                display: inline-flex;
+                justify-content: flex-end;
+                align-items: center;
+                gap: 4px;
+                p{
+                    margin-left: -23px;
+                    padding-right: 20px;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 700;
+                    line-height: 28px;
+                }
+                h5{
+                    color: #FFF;
+                    text-align: right;
+                    font-family: Gotham;
+                    font-size: 16px;
+                    font-style: normal;
+                    font-weight: 325;
+                    line-height: 18px;
+                }
+                .sandal{
+                    width: 30px;
+                    height: 30px;
+                    border-radius: 30px;
+                }
+                .drop{
+                    width: 24px;
+                    height: 24px;             
+                }
+            }
+            .shop{
+                margin-top: 10px;
+                width: 24px;
+                height: 24px;
+                flex-shrink: 0;
+            }
+}
+}

@@ -1,0 +1,136 @@
+.right {
+  padding-left: 20px;
+}
+.right .right-main {
+  margin-top: 70px;
+}
+.right .right-main h2 {
+  color: #000;
+  font-family: Gotham;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 28px;
+}
+.right .right-main .right-content {
+  padding-top: 30px;
+}
+.right .right-main .right-content .availablenow h3 {
+  width: 200px;
+  margin-top: 20px;
+  margin-bottom: -10px;
+  font-size: 18px;
+  font-weight: 700;
+  color: #000;
+  font-family: Gotham;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+.right .right-main .right-content .availablenow .grand {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.right .right-main .right-content .availablenow .grand p {
+  color: #08316D;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  width: 100px;
+}
+.right .right-main .right-content .availablenow .grand h5 {
+  padding-left: 300px;
+  margin-top: -15px;
+  color: #08316D;
+  text-align: justify;
+  font-family: Gotham;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+}
+.right .right-main .right-content .availablenow .tax {
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.right .right-main .right-content .availablenow .tax p {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 325;
+}
+.right .right-main .right-content .availablenow .tax .estimate {
+  width: 150px;
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 325;
+  line-height: 18px;
+}
+.right .right-main .right-content .availablenow .tax h4 {
+  margin-top: -20px;
+  padding-left: 300px;
+  color: #000;
+  text-align: justify;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 325;
+  line-height: 18px;
+}
+.right .right-main .right-content .availablenow .inside {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.right .right-main .right-content .availablenow .inside .hh {
+  margin-right: 165px;
+}
+.right .right-main .right-content .availablenow .inside h4 {
+  width: 200px;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  font-family: Gotham;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 325;
+  line-height: 18px;
+}
+.right .right-main .right-content .availablenow .inside h5 {
+  padding-left: 300px;
+  margin-top: -22px;
+  margin-right: 160px;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 325;
+}
+.right .right-main .right-content .availablenow hr {
+  width: 360px;
+  background: #9D9D9D;
+}
+.right .right-main .order {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 39px;
+  padding: 11px 24px;
+  gap: 10px;
+  flex-shrink: 0;
+  border-radius: 4px;
+  background: #08316D;
+  color: white;
+  margin-left: 100px;
+  margin-top: 70px;
+}
+.right .veg-or-non {
+  display: flex;
+  gap: 20px;
+  margin-left: 370px;
+  font-size: smaller;
+  margin-top: 160px;
+}
+.right .veg-or-non img {
+  width: 10px;
+  height: 10px;
+}/*# sourceMappingURL=Price.css.map */
